@@ -1,0 +1,40 @@
+8
+
+dir
+1962
+svn+ssh://evanweaver@rubyforge.org/var/svn/fauna/search_benchmark/vendor/plugins/acts_as_solr/test/db/connections/sqlite
+svn+ssh://evanweaver@rubyforge.org/var/svn/fauna
+
+
+
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c1ad287d-65d5-445d-b84c-e64f8492f1e6
+
+connection.rb
+file
+
+
+
+
+2008-06-22T03:14:52.000000Z
+07c196a4b5d51060b7c53bcd770b2e2a
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+

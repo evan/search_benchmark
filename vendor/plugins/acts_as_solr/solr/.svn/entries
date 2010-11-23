@@ -1,0 +1,95 @@
+8
+
+dir
+1962
+svn+ssh://evanweaver@rubyforge.org/var/svn/fauna/search_benchmark/vendor/plugins/acts_as_solr/solr
+svn+ssh://evanweaver@rubyforge.org/var/svn/fauna
+
+
+
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c1ad287d-65d5-445d-b84c-e64f8492f1e6
+
+solr
+dir
+
+NOTICE.txt
+file
+
+
+
+
+2008-06-22T03:14:52.000000Z
+3c9044329c9f5d48b649e646b6a972bf
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+tmp
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2008-06-22T03:14:52.000000Z
+698810fb6e8b2a2ab600166c618f3a56
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+webapps
+dir
+
+logs
+dir
+
+lib
+dir
+
+CHANGES.txt
+file
+
+
+
+
+2008-06-22T03:14:51.000000Z
+b05d0f27ee16b6d7c7d89a0bfe9c7cfd
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+start.jar
+file
+
+
+
+
+2008-06-22T03:14:52.000000Z
+e5a2245e35b816b6999a341560f46f3b
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+has-props
+
+etc
+dir
+

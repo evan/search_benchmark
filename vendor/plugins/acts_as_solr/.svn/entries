@@ -1,0 +1,136 @@
+8
+
+dir
+1962
+svn+ssh://evanweaver@rubyforge.org/var/svn/fauna/search_benchmark/vendor/plugins/acts_as_solr
+svn+ssh://evanweaver@rubyforge.org/var/svn/fauna
+
+
+
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c1ad287d-65d5-445d-b84c-e64f8492f1e6
+
+solr
+dir
+
+test
+dir
+
+schema.xml
+file
+
+
+
+
+2008-06-22T03:14:51.000000Z
+225de4856fd40b2a515d9ba23fc97106
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+LICENSE
+file
+
+
+
+
+2008-06-22T03:14:51.000000Z
+17a67da12cd83cd85d6687226cceb8c5
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+Rakefile
+file
+
+
+
+
+2008-06-22T03:14:51.000000Z
+c54f53019b1aa704c066a650b52d264f
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+config
+dir
+
+init.rb
+file
+
+
+
+
+2008-06-22T03:14:51.000000Z
+e1dccfbe891a6a29f1a3f5cda9e76757
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+lib
+dir
+
+CHANGE_LOG
+file
+
+
+
+
+2008-06-22T03:14:51.000000Z
+1122ad1d9263e9a641f46ef31a13091a
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+install.rb
+file
+
+
+
+
+2008-06-22T03:14:51.000000Z
+9928be07ac437999d83892fc2cf1cc0e
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+TESTING_THE_PLUGIN
+file
+
+
+
+
+2008-06-22T03:14:53.000000Z
+cbb1980c82fc753f6230d79e1196cce3
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
+README
+file
+
+
+
+
+2008-06-22T03:14:51.000000Z
+0848df1ba9f5d5972c9055e86c301d21
+2008-06-22T03:15:03.015323Z
+1962
+evanweaver
+
